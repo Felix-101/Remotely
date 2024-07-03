@@ -5,6 +5,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:remotely/widgets/appbar.dart';
 import 'orderPage.dart';
 
+//Cart=> checkout=>donePage=>OrderPage; the done page routes to the order page which is the last page
 class DoneScreen extends StatelessWidget {
   const DoneScreen({super.key});
 

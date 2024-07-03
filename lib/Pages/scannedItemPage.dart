@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:remotely/widgets/appbar.dart';
 
+//from scanning to this page Scanned Item page
+
 class ScannedItemScreen extends StatelessWidget {
   const ScannedItemScreen({super.key});
   @override

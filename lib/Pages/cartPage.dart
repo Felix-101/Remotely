@@ -5,6 +5,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:remotely/widgets/appbar.dart';
 import 'checkoutPage.dart';
 
+//Cart page leads to the checkout and vice versa
 class CartScreen extends StatefulWidget {
   const CartScreen({super.key});
 

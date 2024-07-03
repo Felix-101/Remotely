@@ -5,6 +5,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:remotely/widgets/appbar.dart';
 import 'donePage.dart';
 
+//Cart page=> checkout and then the donePage
 class CheckoutScreen extends StatefulWidget {
   const CheckoutScreen({Key? key}) : super(key: key);
 
